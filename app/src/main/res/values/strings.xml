@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ResourcesAndLocalisation</string>
+    <string name="company_title">BitCode Technologies Pvt. Ltd.</string>
+
+    <integer name="company_code">1901</integer>
+    <bool name="is_password">true</bool>
+    <color name="main_bg_color">#DF0F19</color>
+    <color name="text_color">#FFF</color>
+    <dimen name="text_width">300dp</dimen>
+    <dimen name="text_height">100dp</dimen>
+    <dimen name="text_size">30sp</dimen>
+
+    <string-array name="cities">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+    </string-array>
+
+    <integer-array name="pincodes">
+        <item>411000</item>
+        <item>400000</item>
+        <item>440000</item>
+    </integer-array>
+</resources>
